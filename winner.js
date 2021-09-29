@@ -20,4 +20,4 @@ function checkWinner(state) {
 
 // ========================================
 
-ReactDOM.render(<Board />, document.getElementById("root"));
+ReactDOM.render(<checkWinner />, document.getElementById("root"));
